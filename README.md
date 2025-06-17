@@ -5,7 +5,6 @@ This is a sample personal portfolio website created to showcase my skills, proje
 ### 🔧 Tech Stack
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)
 
 ### 📌 Features
 - Responsive design for mobile and desktop  
