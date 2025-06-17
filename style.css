@@ -1,0 +1,106 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.one {
+    margin: 30px;
+}
+
+.two {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.two__name {
+    font-size: 60px;
+}
+
+.two__role {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.two__contact {
+    background-color: orangered;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.three {
+    display: inline-block;
+    background-color: blue;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: left;
+    margin-top: 20px;
+    height: 200px;
+    vertical-align: top;
+}
+.three__title{
+    text-align: center;
+}
+.three__des{
+    list-style: none;
+    padding: 5px;
+}
+
+.four {
+    display: inline-block;
+    background-color: orangered;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: left;
+    height: 200px;
+    vertical-align: top;
+    margin-top: 20px;
+}
+.four__title{
+    text-align: center;
+    padding: 5px ;
+}
+.four__desc{
+    padding: 5px;
+    list-style: none;
+}
+
+.five {
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+}
+.five__title{
+    margin-top: 10px;
+}
+.five__link1{
+    color: white; 
+    text-decoration: none;
+}
+.five__link2{
+    color: white; 
+    text-decoration: none;
+}
+.five__des{
+    margin-top: 10px;
+}
+.six{
+    margin-top: 20px;
+}
+.six__title{
+    font-size: 30px;
+}
+.six__des{
+    margin-top: 20px;
+}
