@@ -12,3 +12,6 @@ This is a sample personal portfolio website created to showcase my skills, proje
 - Smooth scrolling and basic animations  
 - Clean, customizable code structure
 Feel free to fork this project or use it as a starter template for your own personal site!
+
+### website Access
+https://bhavya-chellapandian.github.io/portfolio-sample-website/
